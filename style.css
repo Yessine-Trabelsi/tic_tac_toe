@@ -1,0 +1,15 @@
+.block {
+  height: 80px;
+  width: 80px;
+  align-content: center;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+.playerX {
+    color: blue;
+}
+
+.playerO {
+    color: red;
+}
